@@ -1,2 +1,2 @@
 # Generative-AI
-Online course by OUK
+This will be my workspace for my projects. 
